@@ -14,3 +14,4 @@ There are some presence of outliers in the data which would have affected our ou
 
 Random forest shows highest accuracy, f1score, and roc-auc.
 
+<img width="339" alt="image" src="https://github.com/widemangojutsu/classificationproject/assets/90173140/8d07ad3e-4c6d-41c0-9006-1dec69651184">
